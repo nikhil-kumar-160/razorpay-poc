@@ -20,7 +20,7 @@ const App = () => {
       key: 'rzp_test_SkxD7Xpm4bfQBK',
       amount: '245999',
       name: 'fabHotels',
-      order_id: 'order_JvDS3XhEXjwCHA',
+      order_id: 'order_JvDS3XhEXjwCHA', //change the order id
       prefill: {
         email: 'manudeep.godara@fabhotels.com',
         contact: '9876543210',
